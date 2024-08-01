@@ -1,0 +1,2 @@
+# QComponent
+Qt Business Library
